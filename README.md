@@ -22,13 +22,13 @@ Using this script, you can reproduce our results of all these DA methods on the 
 If you find this code useful for your research, please cite our paper
 
 > @article{hu2021adversarial,  
->  &nbsp; &nbsp;  title={Adversarial Domain Adaptation with Prototype-Based Normalized Output Conditioner},  
->  &nbsp; &nbsp;  author={Hu, Dapeng and Liang, Jian and Hou, Qibin and Yan, Hanshu and Chen, Yunpeng},  
->  &nbsp; &nbsp;  booktitle={IEEE Transactions on Image Processing (TIP)},  
->  &nbsp; &nbsp;  pages={9359--9371},  
->  &nbsp; &nbsp;  volume={30},  
->  &nbsp; &nbsp;  year={2021},
->  &nbsp; &nbsp;  publisher={IEEE}
+> &nbsp; &nbsp;  title={Adversarial Domain Adaptation with Prototype-Based Normalized Output Conditioner},  
+> &nbsp; &nbsp;  author={Hu, Dapeng and Liang, Jian and Hou, Qibin and Yan, Hanshu and Chen, Yunpeng},  
+> &nbsp; &nbsp;  booktitle={IEEE Transactions on Image Processing (TIP)},  
+> &nbsp; &nbsp;  pages={9359--9371},  
+> &nbsp; &nbsp;  volume={30},  
+> &nbsp; &nbsp;  year={2021},  
+> &nbsp; &nbsp;  publisher={IEEE}
 > }
 
 ### Contact
